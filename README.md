@@ -1,5 +1,10 @@
-## Hi there 👋
+## hi i'm hita 👋
 
+cs & data science @ uiuc
+
+i am building ai-powered tools, full-stack products, and more 💻
+
+📫 [hamba2@illinois.edu](mailto:hamba2@illinois.edu)
 <!--
 **hitakiran/hitakiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
