@@ -2,7 +2,7 @@
 
 cs & data science @ uiuc
 
-i am building ai-powered tools, full-stack products, and more 💻
+i am building ai-powered tools, full-stack products, and more
 
 📫 [hamba2@illinois.edu](mailto:hamba2@illinois.edu)
 <!--
